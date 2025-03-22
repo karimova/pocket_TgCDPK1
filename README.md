@@ -33,7 +33,7 @@ This project investigates the stability and behavior of a ligand-binding pocket 
 
 ### Root Files
 
-- `Report.pdf` – Summary and figures
+- `Report_Karimova.pdf` – Summary and figures
 - `plots.ipynb` – Jupyter Notebook for analysis and visualization
 
 ### Directories
