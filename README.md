@@ -48,8 +48,8 @@ This project investigates the stability and behavior of a ligand-binding pocket 
 ## Command Logs & Protocols
 
 - `Commands_Fpocket.pdf` – Static pocket detection steps
-- `Commands_GROMACS_MD_Run.docx/.pdf` – Commands used for MD simulation
-- `Commands_GROMACS_MD_Analysis.docx/.pdf` – Commands for post-MD analyses
+- `Commands_GROMACS_MD_Run.pdf` – Commands used for MD simulation
+- `Commands_GROMACS_MD_Analysis.pdf` – Commands for post-MD analyses
 
 ---
 
