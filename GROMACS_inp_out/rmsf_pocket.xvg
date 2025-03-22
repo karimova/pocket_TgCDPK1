@@ -1,0 +1,76 @@
+# This file was created Fri Mar 21 10:49:27 2025
+# Created by:
+#                    :-) GROMACS - gmx rmsf, 2022.6-spack (-:
+# 
+# Executable:   /cm/shared/apps/spack/0.17.3/cpu/b/opt/spack/linux-rocky8-zen2/gcc-10.2.0/gromacs-2022.6-sbq2qrcbw6xfxpkchopifp7mrmkp56r3/bin/gmx_mpi
+# Data prefix:  /cm/shared/apps/spack/0.17.3/cpu/b/opt/spack/linux-rocky8-zen2/gcc-10.2.0/gromacs-2022.6-sbq2qrcbw6xfxpkchopifp7mrmkp56r3
+# Working dir:  /home/nvs/Gromacs/cpu/test_2_analysis
+# Command line:
+#   gmx_mpi rmsf -s md_0_1.tpr -f md_0_1_noPBC_Prot.xtc -n pocket_1.ndx -o rmsf_pocket.xvg -res
+# gmx rmsf is part of G R O M A C S:
+#
+# S  C  A  M  O  R  G
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+   50   0.1261
+   51   0.0792
+   52   0.0701
+   53   0.0759
+   54   0.0882
+   59   0.1545
+   60   0.0827
+   61   0.1021
+   64   0.1178
+   65   0.0595
+   69   0.1312
+   71   0.1446
+   72   0.1475
+   73   0.1404
+   75   0.2320
+   76   0.1300
+   78   0.0774
+   79   0.0631
+   80   0.0573
+   83   0.0771
+   86   0.1093
+   87   0.0787
+   88   0.1407
+   89   0.1030
+   90   0.0888
+   91   0.0879
+  103   0.0887
+  104   0.0788
+  110   0.0702
+  111   0.0856
+  112   0.1500
+  113   0.1765
+  117   0.0954
+  118   0.1131
+  119   0.0849
+  120   0.1320
+  121   0.1084
+  123   0.0807
+  124   0.1499
+  125   0.0446
+  187   0.3680
+  188   0.2404
+  189   0.1465
+  190   0.0774
+  191   0.0761
+  192   0.0836
+  193   0.0761
+  194   0.0542
+  195   0.0735
+  213   0.1003
+  214   0.0808
+  215   0.0730
+  234   0.0651
+  235   0.0605
+  239   0.0732
+  240   0.0723
+  241   0.0763
+  242   0.0805
+  243   0.0718
